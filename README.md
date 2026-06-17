@@ -12,7 +12,7 @@ A Python AI bot that plays *Plants vs. Zombies* using computer vision. It uses s
 
 ## Architecture
 
-'''
+```
 screenshot
 
 ↓
@@ -30,7 +30,7 @@ Decision Layer  →  Per-plant scoring → Candidate ranking → Select the best
 ↓
 
 Action Layer  →  Click plant card + click lawn cell
-'''
+```
 
 ## Dependencies
 
